@@ -1,2 +1,0 @@
-# newwall
-newwell
