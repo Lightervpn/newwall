@@ -41,9 +41,13 @@
       {
          "name": "TH-VIP-010",
          "url": "https://raw.githubusercontent.com/Lightervpn/newwall/main/TH-VIP-002.ovpn"
+      },
+      {
+         "name": "TH-VIP-011",
+         "url": "https://raw.githubusercontent.com/Lightervpn/newwall/blob/main/zinmyo.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 2\n\nConfig By:NEW WALL ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 3\n\nConfig By:NEW WALL ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 2
+   "version": 3
 }
