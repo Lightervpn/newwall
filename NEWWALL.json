@@ -8,7 +8,7 @@
       },
 {
          "name": "TH-VIP-002",
-         "url": "https://raw.githubusercontent.com/Lightervpn/newwall/main/Dtac%26True%20fb.ovpn"
+         "url": "https://raw.githubusercontent.com/Lightervpn/newwall/main/Dtac%26True%20fb1.ovpn"
       },
 {
          "name": "TH-VIP-003",
@@ -49,7 +49,7 @@
 ],
 
 
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 8\n\nConfig By:NEW WALL ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 9\n\nConfig By:NEW WALL ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 8
+   "version": 9
 }
